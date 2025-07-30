@@ -6,7 +6,7 @@
     </picture>
   </a>
 
-  <h3>Time Cassette Api </h3>
+  <h3>Time Cassette </h3>
   <hr/>
 </div>
 
